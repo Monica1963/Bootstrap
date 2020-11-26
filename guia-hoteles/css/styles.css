@@ -1,0 +1,79 @@
+.jumbotron {
+  background-color: #F6BA0C;
+  color: #0F0C00; }
+
+.btn-reserva {
+  width: 100%;
+  border-radius: 0; }
+
+.card-hotel {
+  background-color: blanchedalmond; }
+
+.banner {
+  background-image: url("../img/descuento.jpg");
+  background-size: cover;
+  opacity: 0.9;
+  height: 70vh;
+  width: 100%;
+  margin: 0;
+  padding-top: 40px; }
+
+.banner-about {
+  background-size: cover;
+  width: 100%;
+  margin: 0; }
+
+.popover {
+  background: #f3f712; }
+
+.decorador {
+  list-style: none;
+  padding: 0px;
+  margin-left: 10px;
+  margin-top: 40px; }
+
+ul.decorador li::before {
+  content: "\2600";
+  color: #F6BA0C;
+  display: inline-block;
+  padding-right: 80px;
+  font-size: 40px;
+  line-height: 45px;
+  vertical-align: -11px;
+  width: 15px; }
+
+.carousel {
+  margin-bottom: 30px; }
+
+.suscribe {
+  padding: 20px; }
+
+.descuento {
+  width: 100%; }
+
+.tab-content {
+  padding-top: 15px;
+  padding-bottom: 15px; }
+
+footer {
+  padding: 10px 10px 0 10px;
+  background-color: #F6BA0C;
+  margin-top: 10px;
+  margin-left: 0px; }
+
+.oi {
+  padding-right: 10px; }
+
+.oi-star {
+  padding-right: 2px;
+  color: #ecec0d; }
+
+footer a,
+footer a:link {
+  text-decoration: none;
+  color: #0F0C00; }
+
+footer a:hover {
+  color: #F9F5F9; }
+
+/*# sourceMappingURL=styles.css.map */
