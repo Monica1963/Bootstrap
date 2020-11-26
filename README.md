@@ -1,2 +1,2 @@
 # Bootstrap
-Primer proyecto del curso Bootstrap4 en Git
+Proyectos de Bootstrap en Git
